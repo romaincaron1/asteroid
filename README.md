@@ -1,4 +1,4 @@
-### Fractal image generator
+### Asteroid game
 
 written in C++ using the SFML library
 
